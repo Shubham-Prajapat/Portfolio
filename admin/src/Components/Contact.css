@@ -1,0 +1,9 @@
+
+
+.contactForm{
+    border: 2px solid rgb(206, 188, 154);
+    box-shadow: 3px;
+    background-color: white;
+    margin: 30px 30px;
+    padding: 10px 10px;
+}

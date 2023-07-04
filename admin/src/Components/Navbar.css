@@ -1,0 +1,22 @@
+.navContainer{
+    background-color: rgb(37, 37, 175);
+    text-transform: uppercase;
+}
+.navContainer li a:hover{
+    background-color: rgb(224, 236, 226);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.navContainer li .active{
+        background-color: rgb(218, 228, 219);
+
+}
+
+
+
+.navbar-brand{
+    color: rgb(199, 18, 199);
+    font-size: 30px;
+    font-weight: bold;
+}
